@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhaskar.
 - 👀 I’m interested in Web Designing and Hardware Maintenance.
 - 🌱 I’m currently pursuing Advance Diploma in IT Networking and Cloud Computing.
-- 💞️ I’m looking to collaborate with you.
 - 📫 Contact me on hkbhaskarkumar@gmail.com.
 
 <!---
